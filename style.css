@@ -1,0 +1,91 @@
+#body{
+    background-color: blue;
+    font-size: large;
+}
+#logo{
+    height: 100px;
+    width: 550px;
+    background-color: blue;
+    position: absolute;
+    margin-left: 550px;
+}
+#form {
+    height: 480px;
+    width: 550px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 120px;
+}
+#whogo{
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#footer {
+    height: 100px;
+    width: 550px;
+    margin-left: 550px;
+    margin-top: 600px;
+    background-color: rgb(239, 245, 248);
+    position: absolute;
+}
+#email {
+    height: 50px;
+    width: 400px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+#add{
+    margin-left: 80px;
+    margin-top: 100px;
+    position: absolute;
+}
+#pass {
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+#forgot {
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+#rem{
+    position: absolute;
+    margin-top: 28px;
+}
+#password {
+    
+    height: 50px;
+    width: 400px;
+    margin-left: 80px;
+    margin-top: 50px;
+
+}
+#box{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+#login{
+    height: 50px;
+    width: 410px;
+    margin-left: 80px;
+    margin-top: 30px;
+    background-color: blue;
+    color: white;
+
+}
+#body{
+    font-family: calibri;
+}
+#member{
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 125px;
+    
+}
+#go{
+    text-decoration: none;
+}
